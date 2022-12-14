@@ -1,0 +1,20 @@
+id: A82CD10B7
+title: Toh_846a-Threefold_Ritual-v2
+type: translation
+pechas:
+- I7AF1C7FC
+- IFDA64C28
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-100-002
+  eft-text-version: 1.1.5 2020
+  title: Toh_846a-Threefold_Ritual-v2
+alignment_to_base:
+  I7AF1C7FC/54E8: D167
+  IFDA64C28/0AB8: D167
